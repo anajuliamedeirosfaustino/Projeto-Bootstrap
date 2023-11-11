@@ -1,0 +1,47 @@
+body {
+    background-color: #cda39d;
+    font-weight: 600;
+    
+}
+
+section, footer {
+    margin-top: 100px;
+    padding: 2px;
+}
+
+h1{
+    font-size: 63px;
+    color: #303030;
+    padding: 15px;
+    color: #592818;
+    text-align: center;
+}
+
+h2{
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #303030;
+    font-weight: 600;
+}
+
+.carousel-caption h5 {
+    font-size: 80px;
+    color: #f5e6e4;
+    text-shadow: 2px 2px 2px #281608;;
+}
+
+footer p {
+    padding-top: 13px;
+}
+
+#textoatrativo{
+    color: #67241b;
+    text-shadow: #2f2625;
+    margin-bottom: 20px;
+}
+
+li{
+    margin-top: 10px;
+    
+}
+

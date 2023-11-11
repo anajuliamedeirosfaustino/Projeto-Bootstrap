@@ -1,0 +1,19 @@
+html{
+    background-color: #cda39d;
+    margin: 20px;
+    padding-top: 20px;
+    
+}
+
+.cards{
+    border-width: 40px;
+}
+
+h3{
+    padding-top: 15px;
+    color: rgb(65, 39, 4);
+    text-shadow: 2px 2px 2px #dad9d9;
+}
+
+
+

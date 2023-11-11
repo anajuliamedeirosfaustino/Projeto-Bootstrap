@@ -1,0 +1,18 @@
+body{
+    margin: 100px;
+}
+
+html{
+    background-color: #cda39d;
+}
+
+.card-title{
+    color: rgb(65, 39, 4);
+    text-shadow: 2px 2px 2px #cda39d;
+}
+
+.card-text{
+    color: rgb(65, 39, 4);
+    text-shadow: 2px 2px 2px #dad9d9;
+}
+
